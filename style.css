@@ -106,6 +106,7 @@ justify-content: space-between;
 .image1{
     width: 100%;
     background: #1e3932;
+    height: 100%;
 }
 .right-section1,path{
     background-color: #1e3932;
@@ -134,6 +135,7 @@ justify-content: space-between;
 .image2{
     width: 100%;
     background: #1e3932;
+    height: 100%;
 }
 .left-section2{
     background-color: #1e3932;
@@ -160,6 +162,7 @@ justify-content: space-between;
 .image3{
     width: 100%;
     background: #1e3932;
+    height: 100%;
 }
 .right-section3{
     background-color: #d40031;
@@ -185,6 +188,7 @@ justify-content: space-between;
 .image4{
     width: 100%;
     background: #1e3932;
+    height: 100%;
 }
 .left-section4{
     background-color: #1e3932;
@@ -211,6 +215,7 @@ justify-content: space-between;
 .image5{
     width: 100%;
     background: #006241;
+    height: 100%;
 }
 .right-section5{
     background-color: #006241;
@@ -238,6 +243,7 @@ justify-content: space-between;
 .image6{
     width: 100%;
     background: #1e3932;
+    height: 100%;
 }
 .left-section6{
     background-color: #1e3932;
